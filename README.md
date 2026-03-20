@@ -1,5 +1,4 @@
 # internship-project
-Google Play Store data analysis 
 # Google Play Store Analytics Project
 
 ## Project Overview
